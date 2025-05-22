@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2 align="center">👋 Hi there! I'm Anna</h2>
 
-<!--
-**AnnaEsposito/AnnaEsposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>🎓 Economist in training</strong>, passionate about <strong>data</strong>, <strong>logic</strong>, and <strong>evidence-based decision making</strong>.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  💡 I specialize in <strong>data analysis with Python and Pandas</strong>, developing automations to extract data from <strong>APIs</strong> and <strong>websites</strong>, and effectively communicating insights in <strong>business contexts</strong>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  📊 I’m excited to work with <strong>real-world data</strong>, formulate hypotheses, analyze them, and contribute clear ideas to <strong>improve processes</strong> or <strong>drive new strategies</strong>.
+</p>
+
